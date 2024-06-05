@@ -1,4 +1,3 @@
-About Us
 JDWADE Robotics is a pioneering company dedicated to developing advanced robotic solutions for the fishing industry. Our team of engineers and industry experts work together to create state-of-the-art tools that revolutionize fishing practices, ensuring they are more efficient and environmentally friendly.
 
 Products
